@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-TestPage.tests",
+      "appliesTo": "src/components/TestPage.tests.js",
+      "type": "launch"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{
+    "testing.automaticallyOpenPeekViewDuringAutoRun": true,
+    "testing.enableProblemDiagnostics": true
+}
